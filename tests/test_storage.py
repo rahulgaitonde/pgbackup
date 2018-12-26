@@ -1,3 +1,4 @@
+import tempfile
 from pgbackup import storage
 
 def test_storong_file_locally():
